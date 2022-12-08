@@ -1,0 +1,1 @@
+cd /opt/tiger/mlx_workspace/test_bert_time; python gpt.py
